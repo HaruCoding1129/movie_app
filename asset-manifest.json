@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HaruCoding1129/movie_app/static/css/main.063f4e10.chunk.css",
+    "main.js": "/HaruCoding1129/movie_app/static/js/main.b2febc8a.chunk.js",
+    "main.js.map": "/HaruCoding1129/movie_app/static/js/main.b2febc8a.chunk.js.map",
+    "runtime-main.js": "/HaruCoding1129/movie_app/static/js/runtime-main.e7c38b70.js",
+    "runtime-main.js.map": "/HaruCoding1129/movie_app/static/js/runtime-main.e7c38b70.js.map",
+    "static/js/2.f3dabb0d.chunk.js": "/HaruCoding1129/movie_app/static/js/2.f3dabb0d.chunk.js",
+    "static/js/2.f3dabb0d.chunk.js.map": "/HaruCoding1129/movie_app/static/js/2.f3dabb0d.chunk.js.map",
+    "static/js/3.43c1a03d.chunk.js": "/HaruCoding1129/movie_app/static/js/3.43c1a03d.chunk.js",
+    "static/js/3.43c1a03d.chunk.js.map": "/HaruCoding1129/movie_app/static/js/3.43c1a03d.chunk.js.map",
+    "index.html": "/HaruCoding1129/movie_app/index.html",
+    "static/css/main.063f4e10.chunk.css.map": "/HaruCoding1129/movie_app/static/css/main.063f4e10.chunk.css.map",
+    "static/js/2.f3dabb0d.chunk.js.LICENSE.txt": "/HaruCoding1129/movie_app/static/js/2.f3dabb0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7c38b70.js",
+    "static/js/2.f3dabb0d.chunk.js",
+    "static/css/main.063f4e10.chunk.css",
+    "static/js/main.b2febc8a.chunk.js"
+  ]
+}
